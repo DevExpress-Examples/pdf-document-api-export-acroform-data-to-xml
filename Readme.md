@@ -8,7 +8,7 @@
 
 * [Program.cs](./CS/ExportInteractiveForms/Program.cs) (VB: [Program.vb](./VB/ExportInteractiveForms/Program.vb))
 <!-- default file list end -->
-# How to export AcroForm data to XML
+# PDF Document API - Export Interactive Form Data to an XML File
 
 
 This example shows how to export AcroForm data (interactive form data) from a PDF document to XML format.<br><br>You can also export the AcroForm data to FDF, XFDF, and TXT formats using the approach described below.
